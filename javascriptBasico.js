@@ -316,3 +316,11 @@ const myArray = ["cereal", 1];
 //Ejercicio 40
 // Only change code below this line
 const myArray = [["Empanadas", 32], ["Hamburguesas", 21]];
+
+
+
+//Ejercicio 41
+const myArray = [50, 60, 70];
+const myData = myArray[0];
+
+
